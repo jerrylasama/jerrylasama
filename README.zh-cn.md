@@ -57,7 +57,8 @@
   </ul>
 </details>
 
-
+### 用另一种语言：
+<a href="https://github.com/jerrylasama/jerrylasama/blob/master/README.md">en-US</a>
 
 <!--
 **jerrylasama/jerrylasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
