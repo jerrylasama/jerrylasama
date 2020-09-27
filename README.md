@@ -57,8 +57,6 @@ I am an aspiring Data Scientist, my speciality is picking up new things, impleme
   </ul>
 </details>
 
-### In another language
-<a href="https://github.com/jerrylasama/jerrylasama/blob/master/README.zh-cn.md">zh-CN</a>
 
 
 <!--
